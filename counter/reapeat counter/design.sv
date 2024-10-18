@@ -1,6 +1,4 @@
-// Code your design here
 
-// Write your modules here
 `timescale 1ns / 1ps
 module T_Flipflop(
 input logic T ,clk,rstn,
